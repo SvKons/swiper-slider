@@ -48,6 +48,7 @@
         "webpack-stream": "^7.0.0"
     },
     "dependencies": {
+        "gsap": "^3.13.0",
         "swiper": "^12.0.2"
     },
     "homepage": "https://svkons.github.io/swiper-slider"
